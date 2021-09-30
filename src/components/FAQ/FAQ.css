@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+
+.FAQ {
+    background-color: #f0f0f0;
+}
+
+#title-div {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+}
+#title {
+    font-family: 'Cairo';
+    font-size: auto;
+    font-weight: bold;
+    text-align: center;
+    color: #0b284a;
+}
+#subtitle {
+    text-align: center;
+    font-family: 'Cairo';
+    font-size: auto;
+    font-weight: 600;
+    text-align: center;
+    color: #9b9b9b;
+}
+/* #button-div{
+    width: fit-content;
+    height: fit-content;
+} */
+
+
+.button {
+    width:90%;
+    position:relative;
+    /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
+    background-color: #fff;
+    border-color:transparent;
+    text-align: center;
+    margin: unset;
+    font-size:auto;
+    padding: 3% 0%;
+    color: #9b9b9b;
+    font-weight: 600;
+    padding:4% 0%;
+
+   
+}
+
+ .row-FAQ {
+    padding-right: 21%;
+    padding-left: 21%;
+} 
+/* .dropdowns {
+    width: 90% ;
+    position: relative;
+} */
+.containerr {
+    margin-top: 10%;
+   
+}
+.row-padding-bottom {
+    padding-bottom: 1%;
+}
+.button-dropdown {
+    width:100%;
+    background-color: #fff;
+    font-family: 'Cairo';
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: #0b284a;
+    padding:1% 2%;
+    margin-bottom:2%;
+}
+.container-dropdowm {
+    margin-top: 2%;
+}
+
+.buttonn {
+    padding:1% 4%;
+}
+
+
+.collapse {
+    width:100%;
+    margin-bottom: 2%;
+}
+.dropdown-div {
+    width:90%;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    border-color: transparent;
+    background-color:white;
+}
+.card {
+    border:unset;
+}
+.button-dropdown {
+    background-color: unset;
+    box-shadow: unset;
+    padding: 2% 4% !important;
+}
+.dropdown-title {
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+    font-family: 'Cairo', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: right;
+    color: #0b284a;
+}
+#firsttt-button {
+    margin-left: 21%;
+   
+}
+#third-button {
+    margin-left: -21%;
+  
+}
+.faq-row{
+    position: relative;
+    transform: translateX(-25%);
+    right: -50%;
+}
+.button:hover{
+   background-color: #0090df;
+
+
+}

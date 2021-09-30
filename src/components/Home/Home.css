@@ -1,0 +1,374 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+.Body {
+  font-family: 'Cairo', sans-serif  !important;
+  margin-top: -130px;
+  background-color: #f0f0f0  ;
+}
+#firrst-div {
+  width: 100%;
+  height: auto;
+  position: relative;
+
+}
+#first-image {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  object-fit: contain;
+}
+.overlay {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.38) 47%, #000);
+  opacity: 0.75;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+}
+.second-div {
+  width: 100%;
+  height: auto;
+  position: relative;
+  background-color: #f0f0f0;
+}
+#second-div-container {
+width: 100%;
+padding: 120px 210px;
+height: auto;
+background-color: #f0f0f0 ;
+max-width: unset;
+}
+ 
+#second-div-li {
+  list-style-type: none;
+  display: inline;
+  font-size: 18px;
+}
+.second-div-photo {
+  width: 120%;
+}
+#mueeny-word {
+  text-align: center;
+  font-family: 'Cairo',sans-serif;
+  font-size: 34px;
+  font-weight: bold;
+  color: #0b284a;
+}
+#text-box {
+  text-align: center;
+  font-family: 'Cairo',sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.65;
+  color: #0b284a;
+  margin-top: 16px;
+}
+#youtube-logo {
+  text-align: center;
+  margin-top: 16px;
+}
+
+.youtube-link-center {
+  text-align: center;
+  margin-top: 16px;
+}
+#youtube-link {
+  color: #0b284a ;
+  font-family: 'Cairo' , sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.65;
+  
+}
+.fourth-div{
+  width: 100%;
+  height: auto;
+  position: relative;
+  background-color: #f0f0f0;
+}
+#fourth-div-container {
+  width: 100%;
+  height: auto;
+  background-color: #f0f0f0 ;
+  max-width: unset;
+  }
+#fourth-div-li {
+  list-style-type: none;
+  text-align:center;
+  margin-top: 30%;
+}
+#first-sentencee {
+  font-family: 'Cairo';
+  font-size: 20px;
+  font-weight: 600;
+  text-align: right;
+  color: #0090df;
+  margin-right: 10%;
+}
+#second-sentence {
+  font-family: 'Cairo';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: right;
+  color: #0b284a;
+  margin-right: 10%;
+  margin-top: 1%;
+
+}
+#apple-google {
+  left:50%;
+  position:relative;
+  width:fit-content;
+  height:fit-content;
+  transform:translateX(-50%);
+  padding-top:30px;
+}
+#second-col-fifth-div-p{
+  font-family: 'Cairo';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #0b284a;
+  margin-top:10%;
+}
+#fifth-div-container {
+  width: 100%;
+  height: auto;
+  background-color: #f0f0f0 ;
+  max-width: unset;
+  margin-top: -6%;
+}
+#app-download-img{
+  width:100%;
+  margin-top: -13%
+ 
+}
+/* #fifth-col {
+  width:100%
+} */
+#fifth-div-li{
+  list-style-type: none;
+  text-align:center;
+  margin-top:22px;
+}
+#first-sentence-fifth-div
+{
+  font-family: 'Cairo';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #0b284a;
+  margin-top:-13%;
+}
+#second-sentence-fifth-div {
+  font-family: 'Cairo';
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.67;
+  text-align: center;
+  color: #0b284a;
+}
+
+.scrolling-wrapper{
+	overflow-x: auto;
+}
+#home-title-div {
+  position: relative;
+  top: 50%;
+  width: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  margin-top: 2%;
+}
+#home-title {
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  font-family: 'Cairo';
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+#home-subtitle {
+  font-family: 'Cairo';
+  font-size: 20px;
+  color: #ffcc17;
+  text-decoration: underline;
+}
+.ContactUs-container {
+  background-color:white;
+  border-radius: 10px;
+  background-color: #fff;
+  /* padding: 38px 66px 38px 66px; */
+  padding: 42px 66px 42px 68px;
+  margin-top: -3%;
+}
+#title-form {
+  font-family: 'Cairo';
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  color: #0b284a;
+}
+#email {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#message {
+  padding-bottom: 44%;
+}
+#buttons-col {
+  margin-top: 3%;
+}
+#firstt-button {
+  margin-right: 4%;
+  border-radius: 33px;
+  background-color: #1790df;
+  font-family: 'Cairo';
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 2;
+  text-align: center;
+  color: #fff;
+  padding: 0% 5%;
+  height: 100%;
+ 
+}
+#secondd-button {
+  border-radius: 33px;
+  border: solid 2px #0090df;
+  height: auto;
+  margin-left: 18%;
+  margin-right: 1%;
+  background-color:white ;
+}
+#secondd-button:hover {
+  background-color: unset;
+}
+#second-button-title {
+margin-bottom: unset;
+font-family: 'Cairo';
+  font-size: 11px;
+  font-weight: 600;
+  text-align: right;
+  color: #0090df;
+  margin-right: -18%;
+  margin-bottom: -4%;
+}
+#second-button-subtitle {
+  margin-bottom: unset;
+  font-family: 'Cairo';
+  font-size: 9px;
+  font-weight: 600;
+  text-align: right;
+  color: #9b9b9b;
+  padding-left: 22%;
+}
+#second-button-img {
+vertical-align: middle;
+    border-style: none;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); }
+
+.customSlider {
+  display: block;
+  background-color:white;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  margin-right: 5%;
+  margin-bottom: 10%;
+}
+#card-title {
+  font-family: 'Cairo';
+  font-size: 13px;
+  font-weight: bold;
+  text-align: right;
+  color: #0b284a;
+  margin-bottom: unset;
+}
+#card-subtitle  {
+  font-family: Cairo;
+  font-size: 12px;
+  text-align: right;
+  color: #9b9b9b;
+}
+#card-context {
+  font-family: 'Cairo';
+  font-size: 11px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.37;
+  letter-spacing: normal;
+  text-align: right;
+  color: #0b284a;
+  padding: 26px 36px 16px 26px;
+}
+#text-col {
+  margin-top: -3%;
+  margin-right: -6%;
+}
+#img-col {
+  margin-top: -6%;
+}
+#carousel {
+  padding-bottom: 1%;
+}
+#first-sentence-seventh {
+  font-family: 'Cairo';
+  font-size: 15px;
+  font-weight: 600;
+  text-align: right;
+  color: #0090df;
+}
+#second-sentence-seventh {
+  font-family: 'Cairo';
+  font-size: 22px;
+  font-weight: bold;
+  text-align: right;
+  color: #0b284a;
+}
+#seventh-col {
+  margin-bottom: 2%;margin-top: 1%;
+  padding-left: 2%;
+}
+#seventh-container {
+  padding-right: unset;
+}
+.card-title {
+  font-family: 'Cairo';
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  color: #0b284a;
+  padding: 22px 0 0 ;
+}
+.cards-div {
+  border-radius: 5px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  /* top: 50%;
+    position: relative;
+    transform: translateY(-50%); */
+    padding: 4% 0%;
+    margin-right:1%;
+}
+.card-image {
+  position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width:61px ;
+    height: 67px;
+
+}
+.cards-container {
+  margin-right: unset;
+  margin-top: -5%;
+  margin-bottom: 2%;
+}
+.second-row {
+  margin-top: 2%;
+}

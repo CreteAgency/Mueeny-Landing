@@ -1,0 +1,50 @@
+.container-cont-footer {
+    background-color: #0b284a;
+}
+ 
+#footer-li {
+    text-align: center;
+}
+#footer-li li {
+    list-style-type: none;
+    display: inline;
+    font-size: 15px;
+    color: #f0f0f0;
+       
+}
+
+
+#mueeny-logo-footer>img {
+    margin: 67px 0px 32px 0px;
+}
+#div-logoss li {
+    list-style-type: none;
+    display: inline;
+}
+#div-logoss{
+    text-align: center;
+    margin-top: 32px; ;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+.logos-item {
+   
+    margin:0px 25px;
+}
+#copy-right {
+    text-align:center;
+    color: #9b9b9b;
+    margin: 32px 0px 36px 0px;
+    font-size: 10px;
+}
+.footer-item-margin-right {
+    margin-right: 1%;
+    color:#f0f0f0;
+}
+.footer-item-margin-right:hover {
+    text-decoration: unset;
+}
+#private-policy {
+    color:#f0f0f0; 
+}

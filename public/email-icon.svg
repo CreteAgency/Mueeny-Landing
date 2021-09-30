@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.308" height="36.308">
+    <defs>
+        <style>
+            .cls-1{fill:#0090df}
+        </style>
+    </defs>
+    <g id="email_icon" data-name="email icon" transform="translate(-3.145 -3.146)">
+        <g id="Group_10973" data-name="Group 10973" transform="translate(8.907 11.895)">
+            <path id="Path_51775" data-name="Path 51775" class="cls-1" d="M106.124 125H85.46a2.062 2.062 0 0 0-2.06 2.06v14.691a2.062 2.062 0 0 0 2.06 2.06h20.664a2.063 2.063 0 0 0 2.061-2.06V127.06a2.063 2.063 0 0 0-2.061-2.06zm.042 1.182L95.839 136.51l-10.416-10.328zm-21.585.831L92 134.371l-7.422 7.422zm.836 15.616 7.425-7.426 2.583 2.56a.591.591 0 0 0 .834 0l2.521-2.52 7.387 7.388zm21.583-.836-7.387-7.388 7.387-7.388z" transform="translate(-83.4 -125)"/>
+        </g>
+        <path id="Path_51776" data-name="Path 51776" class="cls-1" d="M8.3 8.305a18.38 18.38 0 0 0 25.994 25.989A18.38 18.38 0 0 0 8.3 8.305zm25.124 25.119a7.1 7.1 0 1 1 .006.006z"/>
+    </g>
+</svg>

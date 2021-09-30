@@ -1,0 +1,71 @@
+#formmm {
+    position: relative;
+    left: 50%;
+   transform:translateX(-50%);
+}
+.input:focus {
+outline: none;
+
+}
+.input {
+    width: 100%;
+    padding: 2%;
+    
+}
+#form-title-coll {
+    padding-left: 11%;
+    padding-top: 2%;
+}
+.formss {
+    width: 70%;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#form-title-coll {
+    margin-right: 22%;
+    margin-left: 57%;
+}
+body.Partners {
+    padding-bottom: 2%;
+}
+#form-buttonn {
+    border-radius: 24px;
+    background-color: #1790df;
+    margin-left: 0%;
+    padding: 6px 26px 6px 26px;
+    margin-bottom: 3%;
+    margin-top: 3%;}
+.labelss {
+    font-family: 'Cairo';
+    font-size: 11px;
+    line-height: 3.44;
+    text-align: right;
+    color: #969696;
+}
+.input-choose {
+    font-family: 'Cairo';
+    font-size: 11px;
+    line-height: 3.44;
+    text-align: right;
+    color: #969696;
+}
+#gawal {
+    font-family: 'Cairo';
+    float: right;
+    font-size: 11px;
+
+  line-height: 3.06;
+
+  text-align: right;
+  color: #0b284a;
+
+}
+.upload {
+    white-space: nowrap;
+    margin-bottom: unset;
+    font-size: inherit;
+    color: rgb(150, 150, 150);
+
+}
